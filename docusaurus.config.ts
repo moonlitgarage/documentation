@@ -9,7 +9,7 @@ const ICON = "https://moonlitgarage.com/icon.svg";
 const GITHUB_URL = "https://github.com/moonlitgarage"
 const INSTA_URL = "https://instagram.com/moonlitgarageinc";
 const TWITTER_URL = "https://twitter.com/moonlitgarage";
-const EDIT_URL = GITHUB_URL + "/documentation/tree/main/packages/create-docusaurus/templates/shared/";
+const EDIT_URL = GITHUB_URL + "/documentation/blob/main/";
 
 const config: Config = {
   title: TITLE,
